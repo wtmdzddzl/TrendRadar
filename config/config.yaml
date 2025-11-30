@@ -172,27 +172,6 @@ platforms:
   - id: "producthunt"
     name: "ProductHunt"
 
-  # === 其他/工具类 ===
-  - id: "chongbuluo"
-    name: "虫部落"
-
-   NewsNow的信息源在11月20日更新：
-
-    id: "tencent-hot"
-    name: "腾讯新闻 综合早报"
-    
-    id: "cls-telegraph"
-    name: "财联社 电报"
-    
-    id: "cls-depth"
-    name: "财联社 深度"
-    
-    id: "fastbull-express"
-    name: "法布财经 快讯"
-    
-    id: "fastbull-news"
-    name: "法布财经 头条"
-
   # ======================================================
   # 暂时失败的渠道（可能需要修复或接口已变更）
   # 备注：以下渠道在测试中抓取失败，已暂时注释
