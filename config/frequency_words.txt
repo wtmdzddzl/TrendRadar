@@ -4,7 +4,12 @@
 DeepSeek
 梁文锋
 
+iPhone
 华为
+OPPO
+VIVO
++手机
+
 鸿蒙
 HarmonyOS
 任正非
@@ -111,3 +116,9 @@ ai
 宇宙
 飞船
 航空
+
+A股
+上证
+深证
++涨跌
+!预测
